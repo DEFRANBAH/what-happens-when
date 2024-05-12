@@ -709,3 +709,30 @@ page rendering and painting.
 .. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
 .. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
 .. _`Spanish`: https://github.com/gonzaleztroyano/what-happens-when-ES
+
+
+---
+
+### Enhance Web Browsing Process Explanation with CDN Insights.
+
+### Description:
+This pull request proposes to enrich the existing content on the web browsing process by integrating a comprehensive section on Content Delivery Networks (CDNs). CDNs are pivotal in optimizing web content delivery by caching content across geographically dispersed servers, significantly reducing latency and enhancing web page loading speeds. This addition aims to provide readers with a clearer understanding of how CDNs contribute to the overall performance and user experience of web services.
+
+### Proposed Changes:
+1. **Introduction of a CDN Section**: Following the discussion on web servers and application servers, a new section titled "Content Delivery Network (CDN)" will be introduced. This section will elucidate the operational mechanics of CDNs, their advantages, and their indispensability in contemporary web services.
+
+2. **Integration of CDN Role in the Process**: The role of CDNs within the broader context of the web browsing process will be briefly highlighted. This will underscore how CDNs interact with other components, such as web servers and load balancers, to efficiently serve content.
+
+3. **Inclusion of Real-World Examples**: The section will be enriched with real-world examples of prominent websites, like Netflix and Amazon, that leverage CDNs to demonstrate the tangible benefits of CDNs on web performance.
+
+## Citations:
+[1] https://www.pullrequest.com/blog/writing-a-great-pull-request-description/
+[2] https://docs.github.com/articles/creating-a-pull-request
+[3] https://www.cloudcity.io/blog/2022/08/08/what-to-include-in-a-pull-request-description/
+[4] https://maddevs.io/blog/how-to-make-a-proper-description-for-a-pull-request/
+[5] https://medium.com/google-developer-experts/how-to-pull-request-d75ac81449a5
+[6] https://confluence.atlassian.com/display/BitbucketServer/Pull+requests
+[7] https://stackoverflow.com/questions/14680711/how-to-do-a-github-pull-request
+[8] https://stackoverflow.com/questions/77350750/create-a-pull-request-in-azure-devops-using-javascript-via-a-gui
+[9] https://confluence.atlassian.com/display/BitbucketServer/Commenting+on+a+pull+request
+[10] https://github.com/graphql/graphql-playground/issues/1283
